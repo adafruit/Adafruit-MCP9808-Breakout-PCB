@@ -1,4 +1,5 @@
 ## Adafruit MCP9808 High Accuracy I2C Temperature Sensor Breakout PCB
+<a href="http://www.adafruit.com/products/5027"><img src="assets/5027.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/1782"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
